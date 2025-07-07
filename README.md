@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0-green.svg)](https://fastapi.tiangolo.com/)
 [![Ollama](https://img.shields.io/badge/Ollama-ready-lightgrey.svg)](https://ollama.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache2.0)
+[![License: MIT](https://img.shields.io/badge/License-Apache2.0-yellow.svg)](https://opensource.org/licenses/Apache2.0)
 [![Ollama](https://img.shields.io/badge/Ollama-ready-lightgrey.svg)](https://ollama.com/)
 
 This project provides a ready-to-use backend server built with **FastAPI** to serve powerful AI models locally using **Ollama**. It exposes a set of RESTful APIs for various AI tasks, turning your local machine into a personal AI powerhouse.
